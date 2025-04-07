@@ -13,4 +13,4 @@
    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div><br/>
   
-Sou um estudante de Engenharia de Computação no CEFET-MG, atualmente no 6° período do curso. Minha paixão pela tecnologia e inovações me impulsionou a buscar uma carreira no mundo do desenvolvimento mobile.
+Sou um estudante de Ciencias da Computação na PUC-MG, atualmente no 6° período do curso. Minha paixão pela tecnologia e inovações me impulsionou a buscar uma carreira no mundo do desenvolvimento mobile.
